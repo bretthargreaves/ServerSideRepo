@@ -1,2 +1,7 @@
 Initial File
+<<<<<<< HEAD
 Client Side Change
+=======
+Server Side Change
+Server Side 2nd Change
+>>>>>>> origin/master
